@@ -1,0 +1,35 @@
+# Foldery tymczasowe generowane przez Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Pliki środowisk i edytorów (Visual Studio / VS Code / Rider)
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Pliki kompilacji i raporty błędów
+*.apk
+*.aab
+*.unitypackage
+*.app
+CrashReports/
+sysinfo.txt
